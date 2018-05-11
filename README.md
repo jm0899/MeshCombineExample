@@ -1,2 +1,2 @@
 # MeshCombineExample
-An example of combing several meshes in unity.
+An example of combining several meshes in unity.
